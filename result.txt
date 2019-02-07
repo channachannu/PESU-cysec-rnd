@@ -1,0 +1,27 @@
+Enter the Domain/IP address
+
+----------------------------
+
+----------------------------------------------------
+Host : 10.14.141.46 (botnet)
+State : up
+OsMatch.name : Linux 3.8 - 4.14
+OsMatch.accuracy : 100
+OsMatch.line : 66190
+OsClass.type : general purpose
+OsClass.vendor : Linux
+OsClass.osfamily : Linux
+OsClass.osgen : 3.X
+OsClass.accuracy : 100
+OsClass.type : general purpose
+OsClass.vendor : Linux
+OsClass.osfamily : Linux
+OsClass.osgen : 4.X
+OsClass.accuracy : 100
+----------------------------------------------------
+Protocols : ['tcp']
+----------
+Protocol : tcp
+port : 22	state : open
+port : 80	state : open
+port : 3000	state : open
